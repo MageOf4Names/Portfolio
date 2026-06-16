@@ -64,7 +64,7 @@ def generate_pages(basepath: str, src: str, dest: str, template: str):
 
 def main():
     if len(sys.argv) > 1:
-        basepath = sys.argv
+        basepath = sys.argv[1]
     else:
         basepath = "/"
     static_to_public("./static", "./docs", True)
