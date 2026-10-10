@@ -148,7 +148,7 @@ def assign_block_type(block: str) -> BlockType:
             continue
         if line[0] != ">":
             quote = False
-        if re.findall(r"[0-9]+.", line) == []:
+        if re.findall(r"^[0-9]+.", line) == []:
             order = False
         if line[:2] != "- ":
             unorder = False

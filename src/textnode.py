@@ -57,7 +57,7 @@ class TextNode():
         self.url = url
 
     # Overload how the equality operand works on this class
-    def __eq__(self, other: TextNode):
+    def __eq__(self, other):
         return (self.text == other.text and
                 self.text_type == other.text_type and
                 self.url == other.url)
