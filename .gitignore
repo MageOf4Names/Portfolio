@@ -13,3 +13,6 @@ wheels/
 .python-version
 pyproject.toml
 testStrings.md
+
+# Scripts
+*.ps1

@@ -2,13 +2,14 @@
 
 ## Motivation
 
-
+The idea for John Doe came out of a joke I had with an old DM of mine. I had grown attached to my character over the course of the campaign, and the campaign was filled with life or death scenarios. So I did what anyone would do in my situation: threaten the dm to made a complete nonsense character if my current one died. It was all in good fun, of course, but the idea grew into something more. I started developing a character that would "reset" at the end of every session and come back to the next one completely remade. New species, different class, new stats, the works. And since I'm a programmer and instinctually lazy, I decided to make a program to automate some of the grunt work. That grew from a small script to a fully-fledged discord bot that carries the name and spirit of my joke character John Doe.
 
 ## Current Implementation
 
+The current John Doe bot fully randomizes a D&D character for any given level 1-20 including species, class, subclass, and stats (using a roll 4 keep-highest-3 method). There are also some hidden options to limit the classes you're able to roll to limit some of the random-ness.
 
 ## Future Plans
 
+The future of the John Doe bot involves figuring out hosting to keep the program online more permanently, as well as feature expansions. The goal is to make the bot a lot more configurable with custom class groupings, ways to randomize feats and asis, and anything else that could be a nice quality-of-life feature.
 
 ### [GitHub Link](https://github.com/MageOf4Names/JohnDoeProject)
-
