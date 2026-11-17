@@ -13,3 +13,7 @@ The current John Doe bot fully randomizes a D&D character for any given level 1-
 The future of the John Doe bot involves figuring out hosting to keep the program online more permanently, as well as feature expansions. The goal is to make the bot a lot more configurable with custom class groupings, ways to randomize feats and asis, and anything else that could be a nice quality-of-life feature.
 
 ### [GitHub Link](https://github.com/MageOf4Names/JohnDoeProject)
+
+### [Privacy Policy](/projects/john-doe/privacy-policy.html)
+
+### [Terms of Service](/projects/john-doe/eula.html)

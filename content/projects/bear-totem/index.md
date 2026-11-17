@@ -17,3 +17,7 @@ After the player pools are filled, the user can use the !startRound command to r
 While the main functionality of the bot is there, there is still more to do. In the future, I plan to implement a system to autofill some commands that have predictable inputs to reduce the number of possible errors and/or typos made. Seth has also mentioned adding a rule to ensure no player is sat with another person they had played a game with previously that night, so that will be an upcoming feature as well.
 
 ### [GitHub Link](https://github.com/MageOf4Names/BearTotemCompanion)
+
+### [Privacy Policy](/projects/bear-totem/privacy-policy.html)
+
+### [Terms of Service](/projects/bear-totem/eula.html)
