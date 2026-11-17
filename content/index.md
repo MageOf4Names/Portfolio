@@ -10,9 +10,9 @@ There isn't much to say here. Or, rather, there's too much that I could ramble o
 
 As for what's currently on my docket, here are some of the projects I'm paying particular attention to at the moment:
 
-- [Bear Totem Companion](/projects/bear-totem.html): A discord bot for my local game store.
-- [Combat Companion](/projects/combat-companion.html): A D&D companion app
-- [John Doe Bot](/projects/john-doe.html): A D&D randomizer bot for discord
+- [Bear Totem Companion](/projects/bear-totem/index.html): A discord bot for my local game store.
+- [Combat Companion](/projects/combat-companion/index.html): A D&D companion app
+- [John Doe Bot](/projects/john-doe/index.html): A D&D randomizer bot for discord
 
 ## [My professional/academic career](/professional/)
 
